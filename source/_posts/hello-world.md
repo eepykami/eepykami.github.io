@@ -1,6 +1,7 @@
 ---
 title: Hello World
 tags: [test, hello-world]
+comments: false
 ---
 
 *tap tap* I- Is this thing on?
