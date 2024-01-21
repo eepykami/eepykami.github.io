@@ -10,7 +10,7 @@ npm install
 then for a new post
 
 ```
-hexo new POSTNAME
+npx hexo new POSTNAME
 ```
 
 or you can manually write a .MD file in github's website editor. does the same thign
