@@ -45,7 +45,7 @@ head:
     open_graph:
         # Page title (og:title) (optional)
         # You should leave this blank for most of the time
-        title: eepykami's blog
+        title: Kami's blog
         # Page type (og:type) (optional)
         # You should leave this blank for most of the time
         type: blog
@@ -200,15 +200,15 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Kamil
+        author: Kami
         # Author title
-        author_title: Electrical Engineer
+        author_title: Electronics engineer
         # Author's current location
-        location: United Kingdom
+        location: Earth
         # URL or path to the avatar image
         avatar: https://cdn.discordapp.com/avatars/1153471588277170176/de29389faaf8788f9b98345562691050.png?size=2048
         # Whether show the rounded avatar image
-        avatar_rounded: false
+        avatar_rounded: true
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
@@ -234,13 +234,13 @@ widgets:
         # Maximum level of headings to show (1-6)
         depth: 3
     # Recommendation links widget configurations
-    -
+    #-
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: links
+        #position: left
+        #type: links
         # Names and URLs of the sites
-        links:
-            Hexo: https://hexo.io
+        #links:
+            #Hexo: https://hexo.io
             #Bulma: https://bulma.io
     # Categories widget configurations
     -
@@ -269,21 +269,21 @@ widgets:
         # Whether to show tags count, i.e. number of posts in the tag.
         show_count: true
     # Google FeedBurner email subscription widget configurations
-    -
+    #-
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: subscribe_email
+        #position: left
+        #type: subscribe_email
         # Hint text under the email input
-        description: 
+        #description: 
         # Feedburner ID
-        feedburner_id: ''
+        #feedburner_id: ''
     # Twikoo new comment widget configurations
-    -
+    #-
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: twikoo_new
+        #position: left
+        #type: twikoo_new
         # envId from Tencent CloudBase
-        envId: ''
+        #envId: ''
 
 # Plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/
