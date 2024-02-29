@@ -206,7 +206,7 @@ widgets:
         # Author's current location
         location: Earth
         # URL or path to the avatar image
-        avatar: https://cdn.discordapp.com/avatars/1153471588277170176/de29389faaf8788f9b98345562691050.png?size=2048
+        avatar: https://avatars.githubusercontent.com/u/155262929
         # Whether show the rounded avatar image
         avatar_rounded: true
         # Email address for the Gravatar
